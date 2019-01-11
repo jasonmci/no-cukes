@@ -8,4 +8,16 @@ MVP:
 Tasks:
 
 ☐ Linting and static analysis
+✔ Homebrew @done(19-01-11 14:29)
+    ✔ chown autoconfig @done(19-01-11 14:29)
+☐ RBENV
+    ☐ install
+    ☐ install latest ruby
+        ☐ 2.6.0
+☐ Build Gemfile
+    ✔ Cucumber @done(19-01-11 14:30)
+    ✔ Capybara @done(19-01-11 14:30)
+    ☐ Capybara/DSL format
+☐ Add rspec structure
 ☐ Working tests against a test travel site
+
