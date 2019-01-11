@@ -1,0 +1,11 @@
+MVP:
+
+☐ Able to create tests in rspec 
+☐ Tests call step definitions
+☐ Use the capybara feature/scenario syntax
+☐ Readable output
+
+Tasks:
+
+☐ Linting and static analysis
+☐ Working tests against a test travel site
